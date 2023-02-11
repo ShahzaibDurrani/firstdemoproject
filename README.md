@@ -7,6 +7,13 @@ Theme: Shop Online
 
 Plugins
 
+All in one Wp migration
+
+Elementor
+Elementor essential adds on
+Elemenetor header footer
+Lead form builder themes hunk
+
 Advanced AJAX Product Filters for WooCommerce
 	
 Category Slider for WooCommerce
